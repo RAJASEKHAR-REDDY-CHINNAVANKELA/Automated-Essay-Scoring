@@ -110,7 +110,7 @@ Files:
 4. **View the AI-generated score** instantly.  
 
 ## 📥 Download Model  
-To use the pre-trained model for scoring, you can download the `model.safetensors` file from [Google Drive](https://drive.google.com/drive/folders/1CMT3ansdWeffljs_prYaSlVoS3hJnCnl?usp=sharing).
+To use the pre-trained model for scoring, you can download the `model.safetensors` file from [Google Drive](](https://drive.google.com/drive/folders/1XULGPRTScIwHQShDQ30R0Wx-5igNKBVf?usp=sharing).
 
 ## 📜 License  
 This project is **open-source** under the **MIT License**.  
