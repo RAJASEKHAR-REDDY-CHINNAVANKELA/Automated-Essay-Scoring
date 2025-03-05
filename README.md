@@ -109,11 +109,14 @@ Files:
 3. **Upload an essay** through the frontend.  
 4. **View the AI-generated score** instantly.  
 
+## 📥 Download Model  
+To use the pre-trained model for scoring, you can download the `model.safetensors` file from [Google Drive](https://drive.google.com/drive/folders/1CMT3ansdWeffljs_prYaSlVoS3hJnCnl?usp=sharing).
+
 ## 📜 License  
 This project is **open-source** under the **MIT License**.  
 
 ## 📞 Contact  
-For any questions, contact **[Your Name]** at **[Your Email]**.  
+For any questions, contact **[RAJASEKHAR-REDDY-CHINNAVANKELA]** at **[cvrajasekharreddyuk@gmail.com]**.  
 ```
 
 ---
@@ -123,9 +126,6 @@ For any questions, contact **[Your Name]** at **[Your Email]**.
 ✅ **Add & Push to GitHub**  
 ```bash
 git add README.md  
-git commit -m "Added complete README file with OpenAI API key setup"  
+git commit -m "Updated README with model download link"  
 git push origin master  
 ```
-✅ **Check the README file on GitHub**  
-
-🚀 **Now your project is fully documented, including OpenAI API key instructions!** Let me know if you need any modifications. 🎯🔥
