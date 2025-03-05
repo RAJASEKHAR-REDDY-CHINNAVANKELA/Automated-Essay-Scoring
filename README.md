@@ -119,13 +119,5 @@ This project is **open-source** under the **MIT License**.
 For any questions, contact **[RAJASEKHAR-REDDY-CHINNAVANKELA]** at **[cvrajasekharreddyuk@gmail.com]**.  
 ```
 
----
 
-### **🚀 Final Steps**  
-✅ **Save the file** (`README.md`)  
-✅ **Add & Push to GitHub**  
-```bash
-git add README.md  
-git commit -m "Updated README with model download link"  
-git push origin master  
-```
+
